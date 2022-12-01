@@ -36,7 +36,8 @@
 
 </br>
 
-![image](https://user-images.githubusercontent.com/110883172/203780313-a045addd-f139-44e4-93cc-cbc12d5475b3.png)
+
+
 </br>
 
 ### 2. 파이썬 자료구조
